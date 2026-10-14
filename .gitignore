@@ -1,0 +1,53 @@
+# OS / Editor Files
+.DS_Store
+Thumbs.db
+*.swp
+*.iml
+.idea/
+.vscode/
+
+# Dependencies
+**/node_modules/
+node_modules/
+
+# Environment variables & secrets (keep .env.example)
+.env
+.env.*
+!.env.example
+*.pem
+
+# Build outputs & caches
+**/dist/
+dist/
+**/build/
+build/
+**/.next/
+.next/
+/out/
+.vercel/
+*.tsbuildinfo
+
+# Flutter / Mobile artifacts & Gradle caches
+.dart_tool/
+**/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/ephemeral/
+**/ios/Pods/
+**/ios/.symlinks/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*

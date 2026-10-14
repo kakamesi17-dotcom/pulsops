@@ -1,0 +1,8 @@
+{
+  "latest_version": "2.4.0",
+  "build_number": 2,
+  "download_url": "https://web-pi-two-15.vercel.app/downloads/PulsOps-Member-v2.4.apk",
+  "title": "تحديث جديد متاح لتطبيق PulsOps",
+  "release_notes": "• تحويل التطبيق بالكامل إلى اللغة العربية وتصميم حديث.\n• إضافة جداول التمارين اليومية التفاعلية ومؤقت الراحة.\n• فحص ومتابعة قياسات InBody التفاعلية.\n• متجر النادي بالجنيه المصري (EGP).\n• الكوتش الذكي بالذكاء الاصطناعي (Gemini).\n• فحص التحديثات التلقائي والإشعارات الفورية.",
+  "force_update": false
+}
